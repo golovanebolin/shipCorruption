@@ -1,0 +1,2 @@
+x_nm,y_nm,speed_knots,course_deg,name,ship_class,country,is_own
+15.0,15.0,5.0,30.0,1,2,3,True
